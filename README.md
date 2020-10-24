@@ -2,7 +2,7 @@
 
 ## 👋 &nbsp;Hey there! I'm Sigai
 
-### 👨🏻‍💻 &nbsp;About Me!                       [sigai](https://komarev.com/ghpvc/?username=sigai)
+### 👨🏻‍💻 &nbsp;About Me           ![sigai](https://komarev.com/ghpvc/?username=sigai)
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics.\
