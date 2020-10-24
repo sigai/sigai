@@ -40,10 +40,9 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/sigai">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sigai&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sigai&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sigai&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
@@ -74,7 +73,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![sigai's github stats](https://github-readme-stats.vercel.app/api?username=sigai&show_icons=true&theme=radical)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sigai&repo=sigai)](https://github.com/sigai/sigai)
 [![sigai](https://github-profile-trophy.vercel.app/?username=sigai&theme=onedark)](https://github.com/sigai/sigai)
 ![sigai](https://komarev.com/ghpvc/?username=sigai)
