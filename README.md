@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Banner](https://raw.githubusercontent.com/sigai/sigai/main/banner.jpg)
 
 ## 👋 &nbsp;Hey there! I'm Sigai
