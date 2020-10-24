@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![sigai's github stats](https://github-readme-stats.vercel.app/api?username=sigai&show_icons=true&theme=radical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sigai&repo=github-readme-stats)](https://github.com/sigai/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sigai&repo=sigai)](https://github.com/sigai/sigai)
