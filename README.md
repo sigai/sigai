@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/sigai/sigai/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/sigai/sigai/main/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
